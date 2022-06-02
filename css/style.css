@@ -1,0 +1,43 @@
+h2 {
+    font-size: 1.7em;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.navbar-item {
+    color: #ABABAB;
+}
+
+.footer {
+    background-color: #2D2D2D;
+}
+
+.link-in-footer:hover {
+    color: #FFFFFF;
+}
+
+.center-to-read {
+    margin: auto;
+    max-width: 1024px;
+}
+
+.center-to-make-pro {
+    margin: 5rem;
+}
+
+.is-centered {
+    text-align: center;
+}
+
+a.is-white {
+    color: #FFFFFF;
+}
+
+a.is-white:hover {
+    color: #8D2663;
+}
+
+/*
+#8D2663*/
